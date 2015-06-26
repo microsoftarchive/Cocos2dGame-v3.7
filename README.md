@@ -6,9 +6,7 @@
 2. Rename the unzipped folder to Cocos2dGame-v3.7
 3. Put the Cocos2dGame-v3.7 Folder into c:\labs (or wherever you need it to be)
 
-**Note: This version only builds the Windows 10 UWP project.** 
-
-To start a new cocos2d-x game, clone the cocos2d-x repo at https://github.com/cocos2d/cocos2d-x
+**Note: This version only builds the Windows 10 UWP project.** You can obtain the complete source code from https://github.com/cocos2d/cocos2d-x
 
 
 ###How to create a cocos2d-x v3.7 quick start challenge game
