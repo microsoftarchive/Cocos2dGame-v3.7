@@ -1,36 +1,27 @@
-# cocos2d-x-3.4-quickstart
-Cocos2d-x v3.4 quick start challenge for GDC 2015
+## Cocos2d-x v3.7 Windows 10 Quick Start Challenge for OSCON 2015
 
-##How to install the cocos2d-x v3.4 quick start challenge
+###How to install the cocos2d-x v3.7 quick start challenge
 
-Open a console window
+1. Download the zip file version of this repo and unzip the folder. 
+2. Rename the unzipped folder to Cocos2dGame-v3.7
+3. Put the Cocos2dGame-v3.7 Folder into c:\labs (or wherever you need it to be)
 
-cd c:\labs
+**Note: This version only builds the Windows 10 UWP project.** You can obtain the complete source code from https://github.com/cocos2d/cocos2d-x
 
-git clone https://github.com/MSOpenTech/cocos2d-x-3.4-quickstart.git
 
-cd cocos2d-x-3.4-quickstart
-
-setup.bat
-
-##How to create a cocos2d-x v3.4 quick start challenge game
+###How to create a cocos2d-x v3.7 quick start challenge game
 
 Open a console window and enter:
 
-c:\labs\cocos2d-x-3.4-quickstart\newgame.bat
+c:\labs\Cocos2dGame-v3.7\new_cocos2d_game.bat
 
-A new game solution will be created and a windows will open containing the universal app solution.
+A new game solution will be created and a windows will open containing the Windows 10 UWP solution.
 
 
-##Software Requirements
+###Software Requirements
 
-Visual Studio Community 2013 Update 4.
+Visual Studio Community 2015 RC or later
+Windows 10 Build 10074 or later
 
-Install with ALL options selected (Windows Phone 8.0 and Windows Store App support) b. http://go.microsoft.com/?linkid=9863608
 
-Python 2.7.9 a. https://www.python.org/ftp/python/2.7.9/python-2.7.9.msi
-
-Add C:\Python27 to the Path environment variable
-
-Git for Windows http://git-scm.com/download/win
 
