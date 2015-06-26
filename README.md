@@ -20,8 +20,8 @@ A new game solution will be created and a windows will open containing the Windo
 
 ###Software Requirements
 
-Visual Studio Community 2015 RC or later
-Windows 10 Build 10074 or later
+* Visual Studio Community 2015 RC or later
+* Windows 10 Build 10074 or later
 
 
 
