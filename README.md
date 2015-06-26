@@ -15,7 +15,7 @@ Open a console window and enter:
 
 c:\labs\Cocos2dGame-v3.7\new_cocos2d_game.bat
 
-A new game solution will be created and a windows will open containing the Windows 10 UWP solution.
+A new game solution will be created and a window will open containing the Windows 10 UWP solution.
 
 
 ###Software Requirements
